@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+/* default */
+
+.btn{
+padding: 10px;
+margin: 12px;
+width: 11vw;
+border-radius: 22px;
+border: none;
+}
+.btn:hover{
+    background: greenyellow;
+    transition: 1.5s all;
+}
+
+
+.decrease{
+    border: 1px solid red;
+}
+
+.sucess{
+    border: 1px solid green;
+}
+
+.count {
+    font-size: 222px;
+}
+.container{
+background: #222;
+color: #fff;
+display: flex;
+justify-content: center;
+}
+

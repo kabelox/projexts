@@ -1,0 +1,29 @@
+/ let counter = 0;
+ 
+// let btns = document.querySelectorAll(".btn");
+
+// let valueCount = document.querySelector(".count") ;
+
+// btns.forEach(function(item){
+//     item.addEventListener("click", function(e){
+//         const value = e.currentTarget.classList;
+
+//         if(value.contains("decrease")){
+//             counter--;
+//         }
+//     else if(value.contains("sucess")){
+//         counter++
+//     }
+//     else {
+//         counter = 0;
+//     }
+    
+
+//         const me = valueCount.textContent = counter;  
+//         console.log(me);
+//     })
+
+// })
+
+
+
